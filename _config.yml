@@ -10,7 +10,7 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Joh Doe
+author: Basil Marotical
 author-bio: Desginer  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
@@ -27,10 +27,10 @@ nav-menu:
 
 # use false to turn off any social media links
 twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+facebook: false
+instagram: false
+github: https://github.com/bmarotical
+linkedin: https://www.linkedin.com/in/basil-marotical-b0b32119/
 medium: false
 google-scholar: false
 email: false
